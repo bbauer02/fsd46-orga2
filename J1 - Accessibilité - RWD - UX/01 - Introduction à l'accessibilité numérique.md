@@ -55,7 +55,7 @@ L'accessibilité d'un site web est définie par des normes internationales :
 
 Ce sont des normes **internationales** éditées par la WAI (Web Accessibility Initiative) pour l'accessibilité du contenu web.
 
-- [**RGAA**](https://references.modernisation.gouv.fr/rgaa-accessibilite) (Référentiel Général d'Amélioration de l'Accessibilité)
+- [**RGAA**](https://accessibilite.numerique.gouv.fr/) (Référentiel Général d'Amélioration de l'Accessibilité)
 
 Il s'agit d'un référentiel au niveau **national (France)** permettant de savoir à quel niveau l'on se situe par rapport aux WCAG. Une conformité RGAA permet de respecter les critères de la norme internationale WCAG 2.1
 
